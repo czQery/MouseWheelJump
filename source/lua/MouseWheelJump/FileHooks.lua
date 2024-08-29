@@ -1,0 +1,1 @@
+ModLoader.SetupFileHook("lua/Player.lua", "lua/MouseWheelJump/Player.lua", "post")
