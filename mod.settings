@@ -5,6 +5,6 @@ description = [=[Allows you to use the wheel for jumping at the same time as spa
 
 Source code: [url=https://github.com/czQery/MouseWheelJump]link[/url]]=]
 image       = "preview.jpg"
-tag_modtype = "Gameplay Tweak"
-tag_support = ""
+tag_modtype = "Look and Feel"
+tag_support = "Must be run on Server"
 publish_id = 3152403239
